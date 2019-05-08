@@ -1,0 +1,21 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÈîíÀıÿÿÿÿ8õ­ ù,
+‹"squid:ClassVariableVisibilityCheck"QMake board a static final constant or non-public and provide accessors if needed.(öıéäüÿÿÿÿ8üµğ€ù,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÈîíÀıÿÿÿÿ8üµğ€ù,
+Rsquid:S1444"/Make this "public static direction" field final(É¥×ùüÿÿÿÿ8¦É½ÿø,
+ˆ"squid:ClassVariableVisibilityCheck"SMake endGame a static final constant or non-public and provide accessors if needed.(ŸÙô½8í°´ÿø,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆ³ÎŒûÿÿÿÿ8üµğ€ù,
+Nsquid:S1444"+Make this "public static board" field final(öıéäüÿÿÿÿ8üµğ€ù,
+Nsquid:S1444"+Make this "public static score" field final(áÒõ‡ûÿÿÿÿ8¤Šòù,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(èš…Ë8üµğ€ù,
+Ksquid:S1444"-Make this "public static endGame" field final(ŸÙô½8í°´ÿø,
+‹"squid:ClassVariableVisibilityCheck"QMake score a static final constant or non-public and provide accessors if needed.(áÒõ‡ûÿÿÿÿ8¤Šòù,
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(„›èo8üµğ€ù,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÖÊÊä8»Éñù,
+"squid:ClassVariableVisibilityCheck"UMake direction a static final constant or non-public and provide accessors if needed.(É¥×ùüÿÿÿÿ8¦É½ÿø,

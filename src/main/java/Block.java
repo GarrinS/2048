@@ -4,19 +4,19 @@ import lombok.*;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Block {
-    @Getter
-    @Setter
-    private int score;
+	@Getter
+	@Setter
+	private int score;
 
-    public boolean equilibrium(Block block) {
-        return block.getScore() == this.getScore();
-    }
+	public boolean equilibrium(Block block) {
+		return block.getScore() == this.getScore();
+	}
 
-    public void merge(Block block) {
-        this.setScore(score + block.getScore());
-    }
+	public void merge(Block block) {
+		this.setScore(score + block.getScore());
+	}
 
-    public void clear() {
-        this.setScore(0);
-    }
+	public void clear() {
+		this.setScore(0);
+	}
 }
