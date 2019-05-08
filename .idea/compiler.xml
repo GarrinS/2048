@@ -11,5 +11,8 @@
         <module name="2048" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="2048" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

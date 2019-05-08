@@ -12,3 +12,7 @@ H
 :
 
 readme.txt,4\5\451685e9efac4a6dc1fee73ec53ffb6b2c4c38b5
+T
+$.idea/codeStyles/codeStyleConfig.xml,d\d\dd7b3350c29c49497756c7f32c69a3bed18b1cba
+j
+:.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml,d\9\d9be929cf0aefcc830ec90e8e7e94c566162dabb
